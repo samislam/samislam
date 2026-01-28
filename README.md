@@ -40,7 +40,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=samislam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=samislam&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samislam&theme=tokyonight" alt="GitHub stats summary" />
     </td>
   </tr>
 </table>
